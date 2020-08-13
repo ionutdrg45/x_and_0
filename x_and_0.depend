@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572028871 source:d:\codes\informatica\x_and_0\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
